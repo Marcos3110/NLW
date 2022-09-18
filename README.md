@@ -7,7 +7,7 @@
 Projeto construído no evento Next Level Week da Rocktseat.
 
 [Clique aqui para acessar](
-    https://marcos3110.github.io/Rocket-NWL/
+    https://marcos3110.github.io/NLW/
 )
 
 ## 🧑🏻‍💻 Tecnologias
