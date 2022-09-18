@@ -10,12 +10,12 @@ Projeto construído no evento Next Level Week da Rocktseat.
     https://marcos3110.github.io/Rocket-NWL/
 )
 
-## Tecnologias
+## 🧑🏻‍💻 Tecnologias
 
 - HTML
 - CSS
 - Git e Github
   
-## Contato
+## ✉️ Contato
 
 Levandoski2002@gmail.com
